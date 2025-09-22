@@ -23,10 +23,10 @@ This repository provides direct access to government datasets with working links
 
 </div>
 
-## 📋 Complete Dataset Catalog
+## Complete Dataset Catalog
 
 <details>
-<summary><mark><strong>📂 Click to expand full dataset table (45 datasets)</strong></mark></summary>
+<summary><mark><strong>Click to expand full dataset table (45 datasets)</strong></mark></summary>
 
 | Dataset Name | Category | Primary Link | Additional API or Data Link | Description | Geographic Levels | Update Frequency | Has API | Key Features | Record Count |
 |:-------------|:---------|:-------------|:----------------------------|:------------|:------------------|:-----------------|:--------|:-------------|:-------------|
