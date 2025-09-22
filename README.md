@@ -83,7 +83,7 @@ This repository provides direct access to government datasets with working links
 
 **[Download Complete Dataset Catalog (Excel)](open-civic-datasets.xlsx)**
 
-The Excel file contains all datasets organized by category with:
+The spreadsheet contains all datasets organized by category with:
 - Direct links to data sources
 - API endpoints where available  
 - Dataset descriptions and key features
