@@ -110,6 +110,57 @@ The spreadsheet contains all datasets organized by category with:
 - **311 Service Requests** - Municipal service delivery tracking
 - **OpenFEMA Disaster Data** - Emergency management information
 
+
+## Additional Dataset Discovery Resources
+
+### **Government Data Portals**
+| **Portal** | **Focus** | **Key Features** |
+|:-----------|:----------|:-----------------|
+| **[Data.gov](https://data.gov/)** | Federal datasets | 300,000+ datasets across all agencies |
+| **[Census.gov Data](https://data.census.gov/)** | Demographics & economics | Interactive data explorer, APIs |
+| **[CDC Data & Statistics](https://www.cdc.gov/datastatistics/)** | Public health | Disease surveillance, health behaviors |
+| **[NOAA Data.gov](https://data.noaa.gov/)** | Climate & weather | Real-time and historical climate data |
+| **[NASA Open Data](https://data.nasa.gov/)** | Space & earth science | Satellite imagery, climate data |
+| **[USGS Data Catalog](https://data.usgs.gov/)** | Earth sciences | Water, geology, natural hazards |
+
+### **State & Local Government**
+| **Portal** | **Coverage** | **Example Data** |
+|:-----------|:-------------|:-----------------|
+| **[Open Data Network](https://www.opendatanetwork.com/)** | Multi-jurisdictional | Unified search across 1,000+ portals |
+| **[NYC OpenData](https://opendata.cityofnewyork.us/)** | New York City | 2,000+ datasets, real-time feeds |
+| **[Chicago Data Portal](https://data.cityofchicago.org/)** | Chicago | 600+ datasets, APIs available |
+| **[California Open Data](https://data.ca.gov/)** | California state | Budget, health, transportation |
+| **[Texas Open Data](https://data.texas.gov/)** | Texas state | Education, criminal justice, health |
+| **[DataSF](https://datasf.org/)** | San Francisco | 500+ datasets, data stories |
+
+### **International & Global**
+| **Portal** | **Scope** | **Key Datasets** |
+|:-----------|:----------|:-----------------|
+| **[World Bank Open Data](https://data.worldbank.org/)** | Global development | Economic indicators, poverty data |
+| **[UN Data](http://data.un.org/)** | Global statistics | SDGs, population, environment |
+| **[OECD Data](https://data.oecd.org/)** | Developed countries | Economic, social, environmental |
+| **[European Data Portal](https://data.europa.eu/)** | European Union | 1M+ datasets from EU countries |
+| **[Open Government Data](https://www.data.gov.uk/)** | United Kingdom | Government transparency data |
+| **[Government of Canada Open Data](https://open.canada.ca/)** | Canada | Federal government datasets |
+
+### **Academic & Research**
+| **Platform** | **Specialization** | **Access** |
+|:-------------|:-------------------|:-----------|
+| **[Google Dataset Search](https://datasetsearch.research.google.com/)** | All domains | Free search engine for datasets |
+| **[Kaggle Datasets](https://www.kaggle.com/datasets)** | Machine learning | Community-contributed datasets |
+| **[Harvard Dataverse](https://dataverse.harvard.edu/)** | Research data | Peer-reviewed research datasets |
+| **[ICPSR](https://www.icpsr.umich.edu/)** | Social sciences | Survey data, longitudinal studies |
+| **[Zenodo](https://zenodo.org/)** | Open science | Research outputs, preprints |
+| **[Registry of Open Data on AWS](https://registry.opendata.aws/)** | Cloud datasets | Large-scale public datasets |
+
+### 🏢 **Private Sector & APIs**
+| **Source** | **Type** | **Common Use Cases** |
+|:-----------|:---------|:---------------------|
+| **[Socrata Open Data](https://dev.socrata.com/)** | Government data platform | Municipal data APIs |
+| **[Quandl](https://www.quandl.com/)** | Financial & economic | Market data, economics |
+| **[OpenWeatherMap](https://openweathermap.org/api)** | Weather data | Current/forecast weather APIs |
+| **[Reddit API](https://www.reddit.com/dev/api/)** | Social media | Posts, comments, community data |
+
 ## Contributing
 
 Report broken links or suggest new datasets by opening an issue.
