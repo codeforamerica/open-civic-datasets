@@ -153,7 +153,7 @@ The spreadsheet contains all datasets organized by category with:
 | **[Zenodo](https://zenodo.org/)** | Open science | Research outputs, preprints |
 | **[Registry of Open Data on AWS](https://registry.opendata.aws/)** | Cloud datasets | Large-scale public datasets |
 
-### 🏢 **Private Sector & APIs**
+### **Private Sector & APIs**
 | **Source** | **Type** | **Common Use Cases** |
 |:-----------|:---------|:---------------------|
 | **[Socrata Open Data](https://dev.socrata.com/)** | Government data platform | Municipal data APIs |
